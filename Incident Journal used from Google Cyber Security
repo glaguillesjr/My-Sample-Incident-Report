@@ -1,0 +1,44 @@
+
+# Incident Handler's Journal Entry
+
+**Date:** April 4, 2025
+
+**Entry Number:** 1
+
+**Description:** A security incident occurred at a small health care clinic due to a ransomware attack that affected access to critical medical records and business operations.
+
+**Tool(s) Used:** 
+- Incident response software
+- Antivirus software
+- Communication tools for reporting the incident
+
+## The 5 W's:
+
+- **Who caused the incident?**  
+  The incident was caused by an organized group of unethical hackers who targeted the clinic through phishing emails.
+
+- **What happened?**  
+  Several employees were unable to access their computers and critical files, including medical records. A ransom note appeared on their screens, demanding payment for the decryption key to restore access to the encrypted files.
+
+- **When did the incident occur?**  
+  The incident occurred on Tuesday, April 4, 2025, at approximately 9:00 a.m.
+
+- **Where did the incident happen?**  
+  The incident took place at a small health care clinic in the United States.
+
+- **Why did the incident happen?**  
+  The incident happened because the attackers used targeted phishing emails containing a malicious attachment that, once downloaded by employees, installed ransomware on their computers, allowing the attackers to encrypt critical files.
+
+## Additional Notes:  
+- It is essential to educate employees about phishing and the potential risks of opening unknown email attachments.  
+- Consider implementing more robust security measures to prevent such incidents in the future.  
+- Explore options for data recovery and whether to engage with law enforcement regarding the ransom demand.
+
+## Scenario
+A small U.S. health care clinic specializing in delivering primary-care services experienced a security incident on a Tuesday morning, at approximately 9:00 a.m. Several employees reported that they were unable to use their computers to access files like medical records. Business operations shut down because employees were unable to access the files and software needed to do their job.
+
+Additionally, employees also reported that a ransom note was displayed on their computers. The ransom note stated that all the company's files were encrypted by an organized group of unethical hackers who are known to target organizations in healthcare and transportation industries. In exchange for restoring access to the encrypted files, the ransom note demanded a large sum of money in exchange for the decryption key. 
+
+The attackers were able to gain access into the company's network by using targeted phishing emails, which were sent to several employees of the company. The phishing emails contained a malicious attachment that installed malware on the employee's computer once it was downloaded.
+
+Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in their business operations. The company was forced to shut down their computer systems and contact several organizations to report the incident and receive technical assistance.
