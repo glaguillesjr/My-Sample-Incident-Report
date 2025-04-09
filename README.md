@@ -1,83 +1,19 @@
-<h1>My Sample Incident Report</h1>
-A cybersecurity incident report for a SOC (Security Operations Center) typically includes key details about a security breach or anomaly, describing the nature, scope, impact, and response actions. Below is an example format, followed by a sample incident report:
+# Incident Response Repository
 
-# Cybersecurity Incident Report Template
+## Summary
 
-## Incident Overview
+Welcome to my Incident Response Repository! This repository serves as a comprehensive portfolio showcasing my work and experiences in incident response and incident management. It includes detailed incident journals that document various security incidents I have studied and analyzed, highlighting the steps taken to investigate and resolve each incident.
 
-### Incident Name/ID
+### Repository Contents
 
-### Date and Time of Incident
+- **Incident Journals**: A collection of detailed entries documenting specific security incidents. Each entry includes the date, entry number, incident description, tools used, and the 5 W's (Who, What, When, Where, Why) of the incident. These journals illustrate my analytical skills and my ability to apply incident response frameworks effectively.
 
-### Detection Method
-(e.g., SIEM alert, IDS/IPS, user report)
+- **Incident Response Frameworks**: Information and resources on various incident response frameworks, such as the NIST Incident Response Lifecycle. This section provides insights into best practices and methodologies for managing security incidents.
 
----
+- **Tools and Techniques**: A curated list of cybersecurity tools and techniques used in incident response, including intrusion detection systems, forensic analysis tools, and documentation practices.
 
-## Description of the Incident
+- **Case Studies**: Real-world scenarios that exemplify the challenges and complexities involved in incident response. These case studies serve as practical examples of how to handle incidents effectively.
 
-### Type of Incident
-(e.g., malware infection, phishing attempt, DDoS attack, unauthorized access)
+### Objectives
 
-### Affected Systems/Users
-
-### Scope of the Incident
-(e.g., internal/external, number of devices affected)
-
----
-
-## Timeline
-
-### When the incident was detected
-
-### Key milestones
-(e.g., escalation, containment, resolution)
-
----
-
-## Root Cause Analysis
-
-### How the incident occurred
-(e.g., exploited vulnerability, weak credentials)
-
-### Tools/techniques used by the attacker
-
----
-
-## Impact Assessment
-
-### Business Impact
-(e.g., data stolen, system downtime)
-
-### Severity Level
-(e.g., low, medium, high, critical)
-
----
-
-## Incident Response Actions
-
-### Containment Measures
-(e.g., isolating affected systems)
-
-### Eradication Steps
-(e.g., removing malware, applying patches)
-
-### Recovery Process
-(e.g., restoring backups, reconfiguring firewalls)
-
----
-
-## Recommendations
-
-### Preventive Measures
-(e.g., security awareness training, updates to policies)
-
-### Technical Fixes
-(e.g., patching vulnerabilities, improving SIEM rules)
-
----
-
-## Supporting Evidence
-
-### Screenshots, logs, or attachments
-(e.g., network logs, phishing email headers)
+This repository aims to demonstrate my understanding of incident response processes, my ability to document incidents clearly, and my commitment to continuous learning in the field of cybersecurity. It is designed to be a valuable resource for anyone interested in improving their incident response skills or understanding the intricacies of managing security incidents.
